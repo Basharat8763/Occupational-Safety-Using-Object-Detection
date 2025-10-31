@@ -55,7 +55,7 @@ Copy code
 
 ---
 
-## ⚙️ How to Run  
+## How to Run  
 ```bash
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/occupational-safety-object-detection.git
