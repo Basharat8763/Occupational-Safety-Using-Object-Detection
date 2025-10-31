@@ -37,18 +37,6 @@ Using **YOLOv8-based object detection**, the system acts as a real-time safety c
 ---
 
 ## Project Structure
-occupational-safety-object-detection/
-├── data/
-│ ├── train/ # training images & labels
-│ ├── valid/ # validation set
-│ ├── test/ # test samples
-│ ├── data.yaml # YOLO dataset configuration
-├── models/ # trained weights (.pt)
-├── source_files/ # main Python scripts / notebooks
-├── output/ # model logs & checkpoints
-├── results/ # inference results, screenshots
-├── assets/ # project assets / images
-└── README.md
 <img width="651" height="451" alt="image" src="https://github.com/user-attachments/assets/63bf4ba3-25e0-40ab-8955-93c1488a5152" />
 
 
