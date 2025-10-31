@@ -34,29 +34,5 @@ Using **YOLOv8-based object detection**, the system acts as a real-time safety c
 | **Dataset** | PPE Detection Dataset (~6000 labeled images from Roboflow) |
 | **IDE / Tools** | PyCharm, Google Colab |
 
----
 
-## Project Structure
-<img width="651" height="451" alt="image" src="https://github.com/user-attachments/assets/63bf4ba3-25e0-40ab-8955-93c1488a5152" />
-
-
-yaml
-Copy code
-
----
-
-## How to Run  
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/occupational-safety-object-detection.git
-cd occupational-safety-object-detection
-
-# (Optional) create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run detection
 python source_files/detect.py --weights models/best.pt --source 0
