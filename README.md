@@ -49,6 +49,8 @@ occupational-safety-object-detection/
 ├── results/ # inference results, screenshots
 ├── assets/ # project assets / images
 └── README.md
+<img width="651" height="451" alt="image" src="https://github.com/user-attachments/assets/63bf4ba3-25e0-40ab-8955-93c1488a5152" />
+
 
 yaml
 Copy code
