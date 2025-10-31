@@ -34,5 +34,3 @@ Using **YOLOv8-based object detection**, the system acts as a real-time safety c
 | **Dataset** | PPE Detection Dataset (~6000 labeled images from Roboflow) |
 | **IDE / Tools** | PyCharm, Google Colab |
 
-
-python source_files/detect.py --weights models/best.pt --source 0
