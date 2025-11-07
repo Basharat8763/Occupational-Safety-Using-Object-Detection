@@ -6,11 +6,8 @@ Using **YOLOv8-based object detection**, the system acts as a real-time safety c
 ---
 
 ## Objectives  
-- Detect PPE items such as helmets, masks, and vests in real-time.  
-- Monitor and alert for missing or non-compliant safety equipment.  
-- Provide visual feedback for training and awareness.  
-- Demonstrate AI’s application in occupational safety monitoring.  
-
+- Detect PPE items such as helmets, masks, and vests in real-time.   
+- Provide visual feedback for training and awareness.   
 ---
 
 ## Features  
