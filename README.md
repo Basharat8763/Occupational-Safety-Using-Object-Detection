@@ -41,11 +41,6 @@ Using the YOLOv8 deep learning model, the application enables automated monitori
 
 ---
 
-## Project Structure
-<img width="473" height="603" alt="image" src="https://github.com/user-attachments/assets/a530a447-31e1-4557-bc8b-ab2e4f94a120" />
-
----
-
 ## How It Works
 1. The trained YOLOv8 model loads into the detection script.
 2. The live video stream is captured frame by frame.
