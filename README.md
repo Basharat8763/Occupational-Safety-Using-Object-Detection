@@ -75,9 +75,4 @@ Screenshots, training graphs, and video outputs will be added soon.
 ## License
 This project is intended for academic and research purposes.
 
----
-
-## Status
-Initial repository created.  
-Source files, datasets, and trained model checkpoints will be uploaded soon.
 
