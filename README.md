@@ -1,4 +1,4 @@
-# Occupational Safety and Training Using Object Detection
+# Occupational Safety Using Object Detection
 
 ## Overview
 This project presents an object detection–based system designed to improve occupational safety in industrial and construction environments. The system identifies essential Personal Protective Equipment (PPE) such as helmets, vests, and masks in real time.  
